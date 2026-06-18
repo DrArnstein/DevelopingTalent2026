@@ -1,14 +1,24 @@
 # DevelopingTalent2026
 
-Resources, curriculum and examples for the "Developing Talent 2026" project.
+Project context and authoritative files:
+
+- Project context and rules: `PROJECT_CONTEXT.md` (authoritative project context document)
+- Working proposal (current version of record): `Proposal_June18-2026-NEW.docx` [WORKING_DRAFT]
+- Official competition guidance (authoritative): `fy-2026-84206a-javits-application-notice-and-instructions-113864.pdf` [GUIDANCE]
+- Funded 2022 proposal (structural model): `Javits proposal FINAL submission  04-11-2022.pdf` [FUNDED_MODEL]
+
+Resources, curriculum and examples for the "DevelopingTalent2026" project.
 
 ## About
 This repository collects materials, lesson plans, exercises, and reference code to support programs and workshops aimed at developing technical and professional talent in 2026 and beyond.
 
+---
+
 ## Contents
 - index.html — Project landing page
-- README.md — This document
-- docs/ — (planned) supporting documentation and lesson materials
+- README.md — This document (updated to include quick links to authoritative files)
+- PROJECT_CONTEXT.md — Authoritative project context and rules
+- docs/ — Supporting documentation and lesson materials (now in the docs folder)
 - examples/ — (planned) code examples and sample projects
 
 ## Getting started
